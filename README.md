@@ -12,8 +12,7 @@ This project implements a **Random Forest Classifier from scratch** using Python
 - **Grid Search**: Includes hyperparameter tuning functionality
 - **Visualization Support**: Integrates with matplotlib and seaborn for data analysis
 
-## 📊 Dataset
-
+## Dataset
 **Wine Quality Dataset (Red Wine)**
 - **Samples**: 1,599 red wine samples
 - **Features**: 11 physicochemical properties
